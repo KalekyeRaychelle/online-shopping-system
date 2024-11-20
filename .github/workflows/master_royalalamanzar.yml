@@ -63,4 +63,4 @@ jobs:
           app-name: 'RoyalAlamanzar'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93116861BE6A444C98B134FF7908FA2F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_22F8F6093887410A842115903C554470 }}
